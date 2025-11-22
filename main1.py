@@ -104,4 +104,5 @@ btn.pack(side=LEFT, padx=2, pady=2)
 btn = Button(frame5, text="Пог", width=5, height=2, bg='#808080', command=lambda: click('Пог'))
 btn.pack(side=LEFT, padx=2, pady=2)
 
+
 root.mainloop()
